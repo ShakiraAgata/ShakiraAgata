@@ -1,5 +1,5 @@
-<h1 align="left">Profile</h1>
-<h4 align="left" >My name is Shakira and I am a master student at Maastricht University with a natural interest and curiosity for using programming and creativity in my work. My work ranges from the conversion of information into data and the application of analytical tools to the development of pipelines that uncover solutions and surprising patterns within large datasets that might otherwise go unnoticed. I enjoy improving and blending my technical skills in Python and R with creativity to present data-driven insights and stories that add value in decision-making and drive innovation in science, business, and technology.</h4>
+<h1 align="left">Shakira Agata profile</h1>
+
 ###
 
 <div align="left">
