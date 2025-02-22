@@ -41,11 +41,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
+
 
 <h4 align="left" >My name is Shakira and I am a master student at Maastricht University with a natural interest and curiosity for using programming and creativity in my work. My work ranges from the conversion of information into data and the application of analytical tools to the development of pipelines that uncover solutions and surprising patterns within large datasets that might otherwise go unnoticed. I enjoy improving and blending my technical skills in Python and R with creativity to present data-driven insights and stories that add value in decision-making and drive innovation in science, business, and technology.</h4>
 <br clear="both">
 
 <div align="left"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShakiraAgata&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
+###
