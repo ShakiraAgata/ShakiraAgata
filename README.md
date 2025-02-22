@@ -1,4 +1,4 @@
-<h1 align="left">Shakira Agata profile</h1>
+<h1 align="left">Profile</h1>
 
 ###
 
