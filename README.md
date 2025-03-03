@@ -1,7 +1,6 @@
 <h1 align="left">Shakira Agata-Profile</h1>
 
 ###
-
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=ShakiraAgata&locale=en&mode=daily&theme=outrun&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShakiraAgata&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=outrun&hide_border=false" height="150" alt="languages graph"  />
