@@ -11,7 +11,7 @@
 - 💻 Visit my [Portfolio](https://ShakiraAgata.github.io) for more details about me.
 
 <!--Languages and Tools Section-->       
-<h2 align="left">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
+<h2 align="left">Tech stack</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
