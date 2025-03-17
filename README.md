@@ -8,7 +8,6 @@
 <p align="left"> My name is Shakira and I am a master student at Maastricht University with a natural interest and curiosity for using programming and creativity in my work. My work ranges from the conversion of information into data and the application of analytical tools to the development of pipelines that uncover solutions and surprising patterns within large datasets that might otherwise go unnoticed. I enjoy improving and blending my technical skills in Python and R with creativity to present data-driven insights and stories that add value in decision-making and drive innovation in science, business, and technology.</p>
 
 - ❤ Contributing to Open Source software.
-- 💻 Visit my [Portfolio](https://ShakiraAgata.github.io) for more details about me.
 
 <!--Languages and Tools Section-->       
 <h2 align="left">Tech stack</h2> 
